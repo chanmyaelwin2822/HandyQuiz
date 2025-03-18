@@ -1,0 +1,1 @@
+This project leverages computer vision techniques, utilizing OpenCV, MediaPipe, and the Hand Tracking model developed by Google's MediaPipe team. It enables users to answer quiz questions using hand gestures tracked in real-time, while automatically calculating the score based on the user's input. The project demonstrates the power of computer vision for interactive applications.
